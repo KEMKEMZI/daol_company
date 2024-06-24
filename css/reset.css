@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* @import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC:wght@100..400&display=swap'); */
+*{margin: 0; padding: 0; box-sizing: border-box;}
+a{text-decoration: none; color: inherit;}
+li, ul, ol{list-style: none;}
+html,body{
+    font-size: 14px;
+    color: #444;
+    /* font-family: "Playwrite AU VIC", cursive; */
+}
+
+img{vertical-align: baseline}
+
+table{border-collapse: collapse;}
